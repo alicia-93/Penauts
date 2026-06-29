@@ -1,0 +1,1 @@
+Este foi um dos meus primeiros projetos práticos desenvolvidos na aula de Construção de Software para Web. O objetivo foi aprender a base do desenvolvimento front-end, utilizando HTML5 e CSS3 para estruturar e estilizar uma página do zero com a temática do Snoopy (Peanuts).
